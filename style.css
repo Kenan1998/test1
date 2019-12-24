@@ -1,0 +1,62 @@
+body{
+	background:		#DCDCDC;
+margin: 0;
+padding:0;
+
+	font-size: 14px; 
+	font-family: Arial
+
+}
+
+
+
+
+
+
+
+
+span{
+	font-weight: bold;
+	font-style: Arial, sans-serif;
+}
+
+#navigation{
+float: left;
+width: 140px;
+margin-top: 10px;
+margin-left:10px;
+
+	background:		#DCDCDC;
+}
+	
+	a:link {
+font-weight: bold;
+color: #003366;
+}
+
+#main{
+
+	width:1160px;
+	float:right;
+	height: auto;
+margin: 15px ;
+	background:		#DCDCDC;
+	
+}
+	
+#early{
+float: right;
+width: 1160px;
+	height:auto;
+margin: 15px 
+	background:		#DCDCDC;
+}
+
+#coils{float: right;
+width: 1160px;
+	height:auto;
+margin: 15px 
+	background:		#DCDCDC;
+}
+
+	
